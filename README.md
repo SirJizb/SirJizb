@@ -75,7 +75,7 @@
 
 ## Number of visits 
 <!-- BLOG-POST-LIST:START -->  
- ![Visitor Count](https://profile-counter.glitch.me/SirJizb/count.svg)
+ My ![Visitor Count](https://profile-counter.glitch.me/SirJizb/count.svg) visitor
 <!-- BLOG-POST-LIST:END -->
 <br />
 
