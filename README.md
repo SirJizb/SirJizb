@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/SriJizb/count.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriJizb)](https://github.com/SriJizb/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriJizb&layout=compact)](https://github.com/SriJizb/github-readme-stats)
-![SriJizbs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
+My![Visitor Count](https://profile-counter.glitch.me/SirJizb/count.svg)visitor
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirJizb)](https://github.com/SirJizb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirJizb&layout=compact)](https://github.com/SirJizb/github-readme-stats)
+![SirJizbs's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirJizb&show_icons=true&theme=tokyonight)
+![decription](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
