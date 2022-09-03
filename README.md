@@ -79,5 +79,11 @@
 <!-- BLOG-POST-LIST:END -->
 <br />
 
+## Percentage of language
+<!-- BLOG-POST-LIST:START -->  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirJizb)](https://github.com/SirJizb/github-readme-stats)
+<!-- BLOG-POST-LIST:END -->
+<br />
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
