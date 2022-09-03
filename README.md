@@ -82,6 +82,8 @@
 ## Percentage of language
 <!-- BLOG-POST-LIST:START -->  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirJizb)](https://github.com/SirJizb/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirJizb&layout=compact)](https://github.com/SirJizb/github-readme-stats)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
